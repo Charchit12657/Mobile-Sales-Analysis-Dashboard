@@ -4,6 +4,7 @@
 This project showcases an interactive Power BI dashboard developed to analyze mobile sales performance across multiple dimensions such as city, brand, model, and payment methods. It enables stakeholders to identify revenue trends, compare brand performance, and gain actionable insights into customer purchasing behavior through dynamic visualizations and filters. By transforming raw transactional data into meaningful insights, the project demonstrates strong skills in data analysis, KPI development, and dashboard design for real-world business scenarios.
 
 
+
 ## Objective
 
 The objective of this project is to:
@@ -12,6 +13,7 @@ The objective of this project is to:
 * Identify top-performing regions and brands
 * Understand customer purchasing behavior
 * Provide actionable insights through visualization
+
 
 
 ## Dataset
@@ -25,7 +27,7 @@ The dataset includes the following fields:
 * Payment Method
 * Revenue (calculated as Price x Units sold)
 
----
+
 
 ## Process
 
@@ -35,7 +37,7 @@ The dataset includes the following fields:
 4. Dashboard creation in Power BI
 5. Insight generation from visualizations
 
----
+
 
 ## Key Performance Indicators (KPIs)
 
@@ -44,7 +46,7 @@ The dataset includes the following fields:
 * Total Transactions
 * Average Revenue per Transaction
 
----
+
 
 ## Dashboard Features
 
@@ -54,7 +56,7 @@ The dataset includes the following fields:
 * Monthly sales trends using line charts
 * Payment method distribution using pie charts
 
----
+
 
 ## Key Insights
 
@@ -63,7 +65,7 @@ The dataset includes the following fields:
 * Delhi contributed the highest sales compared to other cities
 * Samsung and OnePlus showed strong competitive performance
 
----
+
 
 ## Tools Used
 
