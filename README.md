@@ -13,7 +13,6 @@ The objective of this project is to:
 * Understand customer purchasing behavior
 * Provide actionable insights through visualization
 
----
 
 ## Dataset
 
