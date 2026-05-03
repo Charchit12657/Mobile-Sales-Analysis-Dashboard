@@ -3,7 +3,6 @@
 ## Summary
 This project showcases an interactive Power BI dashboard developed to analyze mobile sales performance across multiple dimensions such as city, brand, model, and payment methods. It enables stakeholders to identify revenue trends, compare brand performance, and gain actionable insights into customer purchasing behavior through dynamic visualizations and filters. By transforming raw transactional data into meaningful insights, the project demonstrates strong skills in data analysis, KPI development, and dashboard design for real-world business scenarios.
 
----
 
 ## Objective
 
